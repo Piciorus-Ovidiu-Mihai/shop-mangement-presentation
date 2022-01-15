@@ -3,7 +3,7 @@ The app’s main purpose is to connect the main store chains to their clients in
 So, if it has all the features of an ordinary online shop, what is something new that it brings? Well first of all, the users begin their search in the app by creating a new list in which they introduce specific keywords related to the desired products. Then they can select their favorite stores from which they want to get these products from. Based on these selections, a list will be created with the best products, based on their quality and price. 
 The application is hosted on : https://shopmanagement-af64b.web.app/.
 Also for the mobile app the source code can be found on : https://github.com/Piciorus-Ovidiu-Mihai/ShopManagement/tree/main/shop-management-android.
-## What I used ?
+## What I used for building this application?
 For this application I used Angular and Firebase Cloud. All the logic was implemented on front-end side and the I used Firebase Cloud only for keeping my database.
 
 ## Arhitecture
