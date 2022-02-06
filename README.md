@@ -17,6 +17,7 @@ Also for the mobile app the source code can be found on 📱[Mobile](https://git
 
 ## 🚀 What I used ?
 * 🌐 `Angular`
+* 🖥️ `Typescript`
 * 💻 `Firebase`
 * 🌐 `Java`
 * 📱 `Android`
