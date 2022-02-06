@@ -8,10 +8,12 @@ Also for the mobile app the source code can be found on 📱[Mobile](https://git
 
 ## 🛠 Architecture
 * 🌍 Web Application
-![alt text](https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/diagrama-arhitectura-new.png)<br/><br/><br/>
 
-* Android Application
-![alt text](https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/diagram-android-new.png)<br/><br/><br/>
+ ![alt text](https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/diagrama-arhitectura-new-new.png)<br/><br/><br/>
+
+* 📱 Android Application
+
+ ![alt text](https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/diagram-android-new-new.png)<br/><br/><br/>
 
 ## 🚀 What I used ?
 * 🌐 `Angular`
