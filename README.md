@@ -57,13 +57,12 @@ The products list page is a crucial component of the application, responsible fo
 ## 💽 Prerequisites
 * ⚙️ Install [Node.js](https://nodejs.org/en/download/)
 * ⚙️ Install Angular using `npm install -g @angular/cli`
-* ⚙️ Install Angular Schematics using `npm install -g @angular-devkit/schematics-cli`
-* ⚙️ Instal .NET Core & Visual Studio
 
 ## 🚀 Getting Started
 * ⭐ Clone the repository
 * ⭐ Open a terminal in the project path
-* ⭐ Run `npm run build`
+* ⭐ Run `npm install`
+* ⭐ Run `ng serve`
 
 ## 🖥️ Technologies
 * 💽 `Angular`
