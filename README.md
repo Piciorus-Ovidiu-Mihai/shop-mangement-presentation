@@ -8,7 +8,7 @@ Also for the mobile app the source code can be found on 📱[Mobile](https://git
 
 * 🌍 Web Application
 <p align="center">
- ![alt text](https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/diagrama-arhitectura-new-new.png)<br/><br/><br/>
+ <img src="https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/diagrama-arhitectura-new-new.png">
 </p>
 
 * 📱 Android Application
