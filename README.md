@@ -35,7 +35,16 @@ XML layout files are used to define the structure and appearance of user interfa
 Layouts can be inflated and incorporated into Activities and Fragments, allowing you to create consistent and visually appealing user interfaces.
 
 ## 📷 Preview  
+The dashboard is the central hub of the application, offering an at-a-glance view of key information, statistics, and functionalities. It serves as the first point of interaction for users and provides an overview of the application's capabilities. Users can quickly access important features and navigate to other sections of the application from the dashboard.
 
+<p align="center">
+ <img src="https://github.com/Piciorus-Ovidiu-Mihai/Shop-Mangement-Presentation/blob/main/sp-preview-1.png">
+</p>
+
+The products list page is a crucial component of the application, responsible for presenting a comprehensive catalog of products or items. It offers users a structured view of available products, enabling them to browse, search, and select items of interest.
+<p align="center">
+ <img src="https://github.com/Piciorus-Ovidiu-Mihai/Shop-Mangement-Presentation/blob/main/sp-preview-dashboard.png">
+</p>
 
 ## 🛡️ Key Features
 * Efficiency: Save time and valuable resources by eliminating the need to build everything from scratch, allowing developers to focus on the unique aspects of their application.
